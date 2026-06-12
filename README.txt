@@ -7,3 +7,9 @@ tree-based method for few-shot remote sensing scene classification. Knowledge-Ba
 ============================================================================================================================
 Please cite the paper above if this code helps. 
 Programmed by Xiaowei Gu. For any queries about the code, please contact Dr. Xiaowei Gu: xiaowei.gu@surrey.ac.uk
+
+
+Python == 3.9.19
+sklearn == 1.2.2
+numpy == 1.23.5
+scipy == 1.10.1
